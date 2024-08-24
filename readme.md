@@ -1,0 +1,1 @@
+Image Caption Generator is used to recognize the context of an image and to generate natural sentence description for given image. It involves the Visual Context understanding in Computer Vision and the sentence generation in Natural Language Processing. In this the input to the model is an image and the output of the model is caption generated in natural language processing.
